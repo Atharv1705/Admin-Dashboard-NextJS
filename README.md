@@ -1,4 +1,4 @@
-# Atharv's Dashboard #
+# Atharv's Admin Dashboard #
 
 <img src="img/screen.png" alt="" />
 
